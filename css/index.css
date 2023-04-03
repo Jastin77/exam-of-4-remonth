@@ -1,0 +1,114 @@
+.container{
+    max-width: 1260px;
+    margin: auto;
+    width: 100%;
+    /* background-color: aquamarine; */
+    /* padding: 0 20px; */
+}
+.bookshelter{
+    max-width: 1260px;
+    margin: auto;
+    width: 100%;
+    
+}
+
+.book_link{
+}
+.img_logo{
+    margin-bottom: 51px;
+
+}
+.login{
+    background-image: url(../images/Login.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 198px 490px 230px 490px;
+}
+.form-control{
+    width: 300px;
+    height: 45px;
+}
+.row{
+    margin-bottom: 20px;
+}
+.confirm-button{
+    padding: 13px 123px 12px 123px;
+
+    /* margin: 13px 123px 12px 123px; */
+}
+.log_wrap{
+    margin-bottom: 53px;
+}
+.strong{
+    padding: 13px 123px 12px 123px;
+}
+.book_link{
+    font-size: 16px;
+}
+.btn{
+    /* margin-right: 143px; */
+    height: 34px;
+    padding: 11px 0 11px 0;
+}
+
+.text_order{
+
+}
+.show_text{
+    padding-left: 306px;
+}
+
+
+
+.inp{
+    width: 670px;
+    height: 35px;
+    border-radius: 10px;
+    margin-right: 143px;
+
+}
+
+.card{
+    width: 268px;
+    height: 1038px;
+}
+
+.little_card{
+    padding: 0 20px 0 20px;
+}
+.card__body{
+    margin-bottom: 25px;
+    padding: 0 20px 0 20px;
+}
+
+.btn-danger{
+    padding-bottom: 3px;
+    width: 70px;
+}
+
+p{
+    font-size: 13px;
+    /* margin: 0; */
+    /* padding: 0; */
+}
+h5{
+    font-size: 16px ;
+}
+
+
+
+
+/* .card-img-custom {
+    max-height: 200px;
+    height: 100%;
+    object-fit: scale-down;
+}
+
+.book-info-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+} */

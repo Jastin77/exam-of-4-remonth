@@ -1,0 +1,2855 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 756,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "gqDf__ULmR8C",
+      "etag": "eCk4Z42Yc9g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gqDf__ULmR8C",
+      "volumeInfo": {
+        "title": "Flexible Query Answering Systems",
+        "subtitle": "8th International Conference, FQAS 2009, Roskilde, Denmark, October 26-28, 2009, Proceedings",
+        "authors": [
+          "Troels Andreasen",
+          "Ronald R. Yager",
+          "Henrik Bulskov",
+          "Henning Christiansen",
+          "Henrik Legind Larsen"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2009-10-15",
+        "description": "This volume constitutes the Proceedings of the 8th International Conference on Flexible Query Answering Systems, FQAS 2009, held in Roskilde, Denmark, October 26–28, 2009. FQAS 2009 was preceded by the 1994, 1996 and 1998 editions held in Roskilde, Denmark, the FQAS 2000 held in Warsaw, Poland, the 2002 held in Copenhagen, Denmark, and the 2004 and 2006 editions held in Lyon, France, and in Milan, Italy, respectively. FQAS is the premier conference concerned with the very important issue of providing users of information systems with ?exible querying capabilities, and withaneasyandintuitiveaccesstoinformation.Themainobjectiveistoachieve more expressive, informative, cooperative, and productive systems which faci- tate retrieval from information repositories such as databases, libraries, hete- geneous archives and the World-Wide Web. In targeting this objective, the c- ference draws on several research areas, such as information retrieval, database management, information ?ltering, knowledge representation, soft computing, management of multimedia information, and human–computer interaction. The conference provides a unique opportunity for researchers, developers and pr- titioners to explore new ideas and approaches in a multidisciplinary forum. The overalltopic of the FQAS conferences is innovative query systems aimed at providing easy, ?exible and human-friendly access to information. Such s- tems arebecoming increasinglyimportantalsodue to the huge andalwaysgr- ing number of users as well as the growing amount of available information.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783642049569"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3642049567"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 688,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gqDf__ULmR8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gqDf__ULmR8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=gqDf__ULmR8C&pg=PA180&dq=search+terms&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=gqDf__ULmR8C&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flexible_Query_Answering_Systems.html?hl=&id=gqDf__ULmR8C"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Flexible_Query_Answering_Systems-sample-pdf.acsm?id=gqDf__ULmR8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gqDf__ULmR8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "To each cluster, we associate a rank based on a balance of two \u003cb\u003ecriteria\u003c/b\u003e: the novelty of contents of the groups with respect to past results, and their overall similarity with respect to the original \u003cb\u003equery\u003c/b\u003e. A disambiguated \u003cb\u003equery\u003c/b\u003e is then&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZAH1AwAAQBAJ",
+      "etag": "T1ltQb0d6gM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZAH1AwAAQBAJ",
+      "volumeInfo": {
+        "title": "Power Query for Power BI and Excel",
+        "authors": [
+          "Christopher Webb",
+          "Crossjoin Consulting Limited"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2014-07-05",
+        "description": "Power Query for Power BI and Excel is a book for people who are tired of copying and pasting data into Excel worksheets. Power Query, part of the Microsoft Power BI suite, is a tool that automates the process of getting data into Excel and will save you hours of dull, repetitive, and error-prone work! Power Query makes it easy to extract data from many different data sources, filter that data, aggregate it, clean it and perform calculations on it, finally loading that data into either your worksheet or directly into the new Excel 2013 Data Model used by Power Pivot. This concise, practical book provides a complete guide to Power Query and how to use it to solve all of your Excel data-loading problems. Power Query for Power BI and Excel goes well beyond the surface of what Power Query can do. The book goes deep into the underlying M language, showing you how to do amazing things that aren’t going to be possible from just the GUI interface that is covered in most other books. You’ll have full command of the GUI, and you’ll be able to drop into the M language to go beyond what the GUI provides. The depth in this book makes it a must-have item for anyone who is pushing Power BI and Excel to their limits in the pursuit of business intelligence from data analysis. Teaches the basics of using Power Query to load data into Excel Helps you solve common, data-related problems with Power Query Shows how to write your own solutions in the powerful M language",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781430266921"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1430266929"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 261,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZAH1AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZAH1AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=ZAH1AwAAQBAJ&pg=PA42&dq=search+terms&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=ZAH1AwAAQBAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Power_Query_for_Power_BI_and_Excel.html?hl=&id=ZAH1AwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Power_Query_for_Power_BI_and_Excel-sample-epub.acsm?id=ZAH1AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Power_Query_for_Power_BI_and_Excel-sample-pdf.acsm?id=ZAH1AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZAH1AwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When you perform a \u003cb\u003esearch\u003c/b\u003e using the Online \u003cb\u003eSearch\u003c/b\u003e button, a new tab will appear on the Excel ribbon: the \u003cb\u003eSearch\u003c/b\u003e tab, shown in Figure 2-43. Figure 2-43. The \u003cb\u003eSearch\u003c/b\u003e tab In the Refine section, the buttons allow you to \u003cb\u003esearch\u003c/b\u003e for \u003cb\u003eterms\u003c/b\u003e in&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g7YNeVDDbVgC",
+      "etag": "fEZ48GDpvqg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g7YNeVDDbVgC",
+      "volumeInfo": {
+        "title": "Flexible Query Answering Systems",
+        "subtitle": "7th International Conference, FQAS 2006, Milan, Italy, June 7-10, 2006",
+        "authors": [
+          "Henrik Legind Larsen",
+          "Gabriella Pasi",
+          "Daniel Ortiz-Arroyo",
+          "Troels Andreasen",
+          "Henning Christiansen"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2006-05-30",
+        "description": "This book constitutes the refereed proceeding of the 7th International Conference on Flexible Query Answering Systems, FQAS 2006, held in Milan, Italy in June 2006. The 60 revised full papers presented were carefully reviewed and selected from numerous submissions. The papers are organized in topical sections on flexibility in database management and quering, vagueness and uncertainty in XML quering and retrieval, information retrieval and filtering, multimedia information access, user modeling and personalization, knowledge and data extraction, intelligent information extraction from text, and knowledge representation and reasoning.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783540346388"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3540346384"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 730,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g7YNeVDDbVgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g7YNeVDDbVgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=g7YNeVDDbVgC&pg=PA582&dq=search+terms&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=g7YNeVDDbVgC&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flexible_Query_Answering_Systems.html?hl=&id=g7YNeVDDbVgC"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Flexible_Query_Answering_Systems-sample-pdf.acsm?id=g7YNeVDDbVgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g7YNeVDDbVgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&lt;document_retrieval&gt; &lt;swish_query \u003cb\u003equery\u003c/b\u003e=&quot;(talde OR aldra OR sail OR saldo OR samalda OR ekipo OR unitate OR lagunarte OR multzo OR abeltalde OR artalde OR jendetza OR nahaspila) AND (nagusi OR ugazaba OR buru OR buruzagi OR agintzaile&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L0rrrfE0bOsC",
+      "etag": "OlhvNUbH/bo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L0rrrfE0bOsC",
+      "volumeInfo": {
+        "title": "Deep Web Query Interface Understanding and Integration",
+        "authors": [
+          "Eduard C. Dragut",
+          "Weiyi Meng",
+          "Clement T. Yu"
+        ],
+        "publisher": "Morgan & Claypool Publishers",
+        "publishedDate": "2012",
+        "description": "There are millions of searchable data sources on the Web and to a large extent their contents can only be reached through their own query interfaces. There is an enormous interest in making the data in these sources easily accessible. There are primarily two general approaches to achieve this objective. The first is to surface the contents of these sources from the deep Web and add the contents to the index of regular search engines. The second is to integrate the searching capabilities of these sources and support integrated access to them. In this book, we introduce the state-of-the-art techniques for extracting, understanding, and integrating the query interfaces of deep Web data sources. These techniques are critical for producing an integrated query interface for each domain. The interface serves as the mediator for searching all data sources in the concerned domain. While query interface integration is only relevant for the deep Web integration approach, the extraction and understanding of query interfaces are critical for both deep Web exploration approaches. This book aims to provide in-depth and comprehensive coverage of the key technologies needed to create high quality integrated query interfaces automatically. The following technical issues are discussed in detail in this book: query interface modeling, query interface extraction, query interface clustering, query interface matching, query interface attribute integration, and query interface integration. Table of Contents: Introduction / Query Interface Representation and Extraction / Query Interface Clustering and Categorization / Query Interface Matching / Query Interface Attribute Integration / Query Interface Integration / Summary and Future Research",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781608458943"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1608458946"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L0rrrfE0bOsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L0rrrfE0bOsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=L0rrrfE0bOsC&pg=PA54&dq=search+terms&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=L0rrrfE0bOsC&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Deep_Web_Query_Interface_Understanding_a.html?hl=&id=L0rrrfE0bOsC"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Deep_Web_Query_Interface_Understanding_a-sample-pdf.acsm?id=L0rrrfE0bOsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L0rrrfE0bOsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "FN consists ofall distinct \u003cb\u003eterms\u003c/b\u003e appearing in a \u003cb\u003equery\u003c/b\u003e interface. For example, the \u003cb\u003equery\u003c/b\u003e interfaces of book \u003cb\u003esearch\u003c/b\u003e engines usually have attribute names such as “title,” “author,” “ISBN,” and “category,” while those of automobile \u003cb\u003esearch\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "77RZAAAAYAAJ",
+      "etag": "dDEd6WA3NaI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/77RZAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Pennsylvania Law Encyclopedia",
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000062618915"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=77RZAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=77RZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=77RZAAAAYAAJ&q=search+terms&dq=search+terms&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=77RZAAAAYAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pennsylvania_Law_Encyclopedia.html?hl=&id=77RZAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=77RZAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eSEARCHING\u003c/b\u003e As the lexis.com8&quot; computer-assisted legal research service is a full-text database, it allows you to \u003cb\u003esearch\u003c/b\u003e for virtually any \u003cb\u003eword\u003c/b\u003e or combination of \u003cb\u003ewords\u003c/b\u003e. (The only exceptions are certain &quot;noise \u003cb\u003ewords\u003c/b\u003e&quot; such as in, on, was,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DgbhAAAAMAAJ",
+      "etag": "GENwy+qNfR4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DgbhAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Search INFORM.",
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015014503646"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 362,
+        "printType": "BOOK",
+        "categories": [
+          "ABI/INFORM (Information retrieval system)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DgbhAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DgbhAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=DgbhAAAAMAAJ&pg=PA2&dq=search+terms&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=DgbhAAAAMAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Search_INFORM.html?hl=&id=DgbhAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DgbhAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bLSgDgAAQBAJ",
+      "etag": "UWF/81OUQpM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bLSgDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Stress Less Word Search - Cheerful Puzzles",
+        "subtitle": "100 Word Search Puzzles for Fun and Relaxation",
+        "authors": [
+          "Charles Timmerman"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2017-01-06",
+        "description": "Find your calm and happy place! Stress Less Word Search Cheerful Puzzles will inspire you to find relaxation in 100 all-new word puzzles. Finding, circling, or highlighting words in any of the 100 brand-new word search puzzles helps to quiet anxious minds in a creative, relaxing, and therapeutic way. Featuring themes such as: Go Fly a Kite Homecoming Joy Fireworks Costume Party Summer Fun in the Sun Day at the Zoo Each stress-reducing page contains an all-new puzzle featuring an engaging theme, including the outdoors, relaxing vacations, and favorite cartoon characters. Soon, you'll be able to shift focus to a relaxing and fun activity as you concentrate on finding all the words to complete the puzzle. Whether you're new to word search puzzles or have been enjoying them for years, this book will help you find inner calm and creativity--one page at a time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781507200674"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1507200676"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Games & Activities"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bLSgDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bLSgDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=bLSgDgAAQBAJ&printsec=frontcover&dq=search+terms&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=bLSgDgAAQBAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stress_Less_Word_Search_Cheerful_Puzzles.html?hl=&id=bLSgDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bLSgDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whether you&#39;re new to word search puzzles or have been enjoying them for years, this book will help you find inner calm and creativity--one page at a time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OMOwmLgbMfYC",
+      "etag": "xrzHhzTk15c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OMOwmLgbMfYC",
+      "volumeInfo": {
+        "title": "Out's Gay & Lesbian Guide to the Web",
+        "authors": [
+          "J. Harrison Fitch"
+        ],
+        "publisher": "Ziff Davis Press",
+        "publishedDate": "1997",
+        "description": "Describes sites on the World Wide Web of special interest to gay men and lesbians",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0789710595"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780789710598"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OMOwmLgbMfYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OMOwmLgbMfYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=OMOwmLgbMfYC&q=search+terms&dq=search+terms&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=OMOwmLgbMfYC&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Out_s_Gay_Lesbian_Guide_to_the_Web.html?hl=&id=OMOwmLgbMfYC"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OMOwmLgbMfYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eSearch\u003c/b\u003e Options features. Iust keep these simple guidelines in mind: 0 AND \u003cb\u003esearches\u003c/b\u003e are possible by selecting the match all \u003cb\u003eterms\u003c/b\u003e (AND) option and then entering whatever \u003cb\u003ewords\u003c/b\u003e you want in the \u003cb\u003esearch\u003c/b\u003e box. In the above example,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T7nuAAAAMAAJ",
+      "etag": "jxpK9clRj94",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T7nuAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Hands-on Information Literacy Activities",
+        "authors": [
+          "Jane Birks",
+          "Fiona Hunt"
+        ],
+        "publishedDate": "2003",
+        "description": "This book (and accompanying CD-ROM) is aimed at helping secondary school and college students develop critical information literacy skills.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015056686622"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "categories": [
+          "CD-ROMs"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T7nuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T7nuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=T7nuAAAAMAAJ&q=search+terms&dq=search+terms&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=T7nuAAAAMAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hands_on_Information_Literacy_Activities.html?hl=&id=T7nuAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T7nuAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "(The number should be recorded on the board beside the \u003cb\u003esearch term\u003c/b\u003e.) c) I am searching for pink AND round. (Write the new search string under the previous one.) d) How many shapes match my \u003cb\u003esearch criteria\u003c/b\u003e? e) All students with a round&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gQO4kKbCuLgC",
+      "etag": "LRo6OPLEWMk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gQO4kKbCuLgC",
+      "volumeInfo": {
+        "title": "Bible Word Searches for Adults and Teens",
+        "authors": [
+          "Kathleen D. Riley"
+        ],
+        "publisher": "WestBow Press",
+        "publishedDate": "2012-05",
+        "description": "Bible Word Searches for Adults and Teens is filled with exciting facts, from A - Z, about the Word of God. It is an excellent teaching tool for readers to learn more about the Bible. There are benefits to working Word Search Puzzles: Provides inexpensive entertainment and educational benefits. Increases letter, word and pattern recognition skills. Improves vocabulary. Parents and Teachers can use word searches as an educational tool to help children with spelling practice. Seventy-five percent of Seniors have memory-related problems. Solving word search puzzles strengthens the memory and mental function, keeping the mind sharp and active. An excellent way to learn English. Helps people who have dyslexia. A good activity to do while traveling. Something to do while waiting at the doctor's office. Hours of a fun, low-stress activity for all ages to enjoy together.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449749972"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449749976"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 253,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gQO4kKbCuLgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gQO4kKbCuLgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=gQO4kKbCuLgC&pg=PA209&dq=search+terms&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=gQO4kKbCuLgC&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bible_Word_Searches_for_Adults_and_Teens.html?hl=&id=gQO4kKbCuLgC"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Bible_Word_Searches_for_Adults_and_Teens-sample-epub.acsm?id=gQO4kKbCuLgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Bible_Word_Searches_for_Adults_and_Teens-sample-pdf.acsm?id=gQO4kKbCuLgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gQO4kKbCuLgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "38 Hebrew and Greek \u003cb\u003eWords\u003c/b\u003e for “Dance” \u003cb\u003eWord Search\u003c/b\u003e No. 37 Musical \u003cb\u003eTerms\u003c/b\u003e in the Bible \u003cb\u003eWord Search\u003c/b\u003e No. 39 Levitical Singers and Musicians – Part 1 \u003cb\u003eWord Search\u003c/b\u003e No. 40 Levitical Singers and Musicians – Part 2 \u003cb\u003eWord Search\u003c/b\u003e No."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yXCtAAAAQBAJ",
+      "etag": "B833HoIa8ds",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yXCtAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Investigating Internet Crimes",
+        "subtitle": "An Introduction to Solving Crimes in Cyberspace",
+        "authors": [
+          "Todd G. Shipley",
+          "Art Bowker"
+        ],
+        "publisher": "Newnes",
+        "publishedDate": "2013-11-12",
+        "description": "Written by experts on the frontlines, Investigating Internet Crimes provides seasoned and new investigators with the background and tools they need to investigate crime occurring in the online world. This invaluable guide provides step-by-step instructions for investigating Internet crimes, including locating, interpreting, understanding, collecting, and documenting online electronic evidence to benefit investigations. Cybercrime is the fastest growing area of crime as more criminals seek to exploit the speed, convenience and anonymity that the Internet provides to commit a diverse range of criminal activities. Today's online crime includes attacks against computer data and systems, identity theft, distribution of child pornography, penetration of online financial services, using social networks to commit crimes, and the deployment of viruses, botnets, and email scams such as phishing. Symantec's 2012 Norton Cybercrime Report stated that the world spent an estimated $110 billion to combat cybercrime, an average of nearly $200 per victim. Law enforcement agencies and corporate security officers around the world with the responsibility for enforcing, investigating and prosecuting cybercrime are overwhelmed, not only by the sheer number of crimes being committed but by a lack of adequate training material. This book provides that fundamental knowledge, including how to properly collect and document online evidence, trace IP addresses, and work undercover. Provides step-by-step instructions on how to investigate crimes online Covers how new software tools can assist in online investigations Discusses how to track down, interpret, and understand online electronic evidence to benefit investigations Details guidelines for collecting and documenting online evidence that can be presented in court",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780124079298"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0124079296"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yXCtAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yXCtAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=yXCtAAAAQBAJ&pg=PA272&dq=search+terms&hl=&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yXCtAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yXCtAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 47.13,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 32.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yXCtAAAAQBAJ&rdid=book-yXCtAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 47130000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 32990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Investigating_Internet_Crimes-sample-epub.acsm?id=yXCtAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Investigating_Internet_Crimes-sample-pdf.acsm?id=yXCtAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yXCtAAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Try writing it down and picking out keywords and use them (and relevant synonyms) in your \u003cb\u003esearch query\u003c/b\u003e. 2. If you are looking for specific information, use a search engine first. If you are looking for general information on a broader&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y8yAswEACAAJ",
+      "etag": "r8VUN1kpv7g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y8yAswEACAAJ",
+      "volumeInfo": {
+        "title": "Deep Learning for Search",
+        "authors": [
+          "Tommaso Teofili"
+        ],
+        "publishedDate": "2018-07-28",
+        "description": "Deep Learning for Search teaches readers how to leverage neural networks, NLP, and deep learning techniques to improve search performance. Deep Learning for Search teaches readers how to improve the effectiveness of your search by implementing neural network-based techniques. By the time their finished, they'll be ready to build amazing search engines that deliver the results your users need and get better as time goes on! Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1617294799"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781617294792"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 325,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Y8yAswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Y8yAswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=Y8yAswEACAAJ&dq=search+terms&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=Y8yAswEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Deep_Learning_for_Search.html?hl=&id=Y8yAswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y8yAswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book will show you how. About the Book Deep Learning for Search teaches you to improve your search results with neural networks. You&#39;ll review how DL relates to search basics like indexing and ranking."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fBFkzgEACAAJ",
+      "etag": "ZdKT2W6Jqo8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fBFkzgEACAAJ",
+      "volumeInfo": {
+        "title": "Planet Word Search",
+        "subtitle": "40 Page Of Word Search Puzzles, More Than 300 Different Word In One Book Puzzles Word Search For Adults",
+        "authors": [
+          "Started Word Search"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-04-05",
+        "description": "Word Search is a game composed of the letters of words formatted in a grid. Generally, the word game grid is rectangular or square in nature. The goal is to find and highlight all of the words hidden in the puzzle. The words may be placed diagonally, horizontally, vertically, or backward. All of the hidden words can be found in a list alongside the grid. Each word from the list will become a \"muted\" state after it has been highlighted in the puzzle. Word Searches are not only a great way to pass the time, but also provide a great exercise for keeping your brain fit. Word searches have been found to boost learning in a number of ways including increased processing speed, improved working memory (both short and long term memory), advancing logical and strategic thinking, expanding vocabulary, strengthening spelling proficiency, as well as providing a creative outlet for problem solving and competition. The book contains more than 300 different word in 40 page word search With solutions of all puzzles at the end of the book The words in every puzzle page range between 8-9 word The number of pages: 50 Book size: 8.5x11 inch",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798733636245"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fBFkzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fBFkzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=fBFkzgEACAAJ&dq=search+terms&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=fBFkzgEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Planet_Word_Search.html?hl=&id=fBFkzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fBFkzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book contains more than 300 different word in 40 page word search With solutions of all puzzles at the end of the book The words in every puzzle page range between 8-9 word The number of pages: 50 Book size: 8.5x11 inch"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RIRkzgEACAAJ",
+      "etag": "8qSXshmYz6I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RIRkzgEACAAJ",
+      "volumeInfo": {
+        "title": "Brazil Word Search",
+        "subtitle": "40 Page Of Word Search Puzzles, More Than 300 Different Word In One Book Puzzles Word Search For Adults",
+        "authors": [
+          "Started Word Search"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2021-04-05",
+        "description": "Word Search is a game composed of the letters of words formatted in a grid. Generally, the word game grid is rectangular or square in nature. The goal is to find and highlight all of the words hidden in the puzzle. The words may be placed diagonally, horizontally, vertically, or backward. All of the hidden words can be found in a list alongside the grid. Each word from the list will become a \"muted\" state after it has been highlighted in the puzzle. Word Searches are not only a great way to pass the time, but also provide a great exercise for keeping your brain fit. Word searches have been found to boost learning in a number of ways including increased processing speed, improved working memory (both short and long term memory), advancing logical and strategic thinking, expanding vocabulary, strengthening spelling proficiency, as well as providing a creative outlet for problem solving and competition. The book contains more than 300 different word in 40 page word search With solutions of all puzzles at the end of the book The words in every puzzle page range between 8-9 word The number of pages: 50 Book size: 8.5x11 inch",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798733605609"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RIRkzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RIRkzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=RIRkzgEACAAJ&dq=search+terms&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=RIRkzgEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brazil_Word_Search.html?hl=&id=RIRkzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RIRkzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book contains more than 300 different word in 40 page word search With solutions of all puzzles at the end of the book The words in every puzzle page range between 8-9 word The number of pages: 50 Book size: 8.5x11 inch"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0tdFAQAAIAAJ",
+      "etag": "9qwpPDmuHkU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0tdFAQAAIAAJ",
+      "volumeInfo": {
+        "title": "BOTS and Other Internet Beasties",
+        "authors": [
+          "Joseph Williams"
+        ],
+        "publisher": "Sams",
+        "publishedDate": "1996",
+        "description": "Describes how to use intelligent, robot-like programs to retrieve, quantify, and present useful information from the Internet, as well as how to create and customize them. Topics include filtering agents, search engines, BargainFinder, security issues, agent mobility, robots, and manufacturing agents. The languages used to author these agents--Tcl, Telescript, and Java--are also presented. For the casual to accomplished user. The CD-ROM contains a Tcl/Tk compiler from Sun Labs, a Java Developer's Kit, and links to Tcl resources and software agents. Annotation copyrighted by Book News, Inc., Portland, OR",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSD:31822023709876"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 554,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0tdFAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0tdFAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=0tdFAQAAIAAJ&q=search+terms&dq=search+terms&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=0tdFAQAAIAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/BOTS_and_Other_Internet_Beasties.html?hl=&id=0tdFAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0tdFAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "We have an information request that we describe briefly in text form, the text of our \u003cb\u003equery\u003c/b\u003e is matched to cataloged descriptions of ... A \u003cb\u003esearch\u003c/b\u003e for automobile will not find documents that use different \u003cb\u003eterms\u003c/b\u003e for the same concept: car,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JeJPzQEACAAJ",
+      "etag": "qOMN0zCsJ6M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JeJPzQEACAAJ",
+      "volumeInfo": {
+        "title": "Word Puzzle Search Valentine's Day Puzzle Word Search Volume 50",
+        "subtitle": "Word Search Games for Adults, 8.5*11 Large Print Word Search Books",
+        "authors": [
+          "Word Puzzle Search Book"
+        ],
+        "publishedDate": "2020-01-20",
+        "description": "Are you searching for something to do? Look no further! Enjoy hours of LARGE PRINT word search puzzle fun with This Book",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798601593342"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JeJPzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JeJPzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=JeJPzQEACAAJ&dq=search+terms&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=JeJPzQEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Word_Puzzle_Search_Valentine_s_Day_Puzzl.html?hl=&id=JeJPzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JeJPzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Are you searching for something to do? Look no further! Enjoy hours of LARGE PRINT word search puzzle fun with This Book"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "whJaAAAAYAAJ",
+      "etag": "T/eq9ot9Q1M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/whJaAAAAYAAJ",
+      "volumeInfo": {
+        "title": "West's Analysis of American Law",
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924106960317"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1862,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=whJaAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=whJaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=whJaAAAAYAAJ&q=search+terms&dq=search+terms&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=whJaAAAAYAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/West_s_Analysis_of_American_Law.html?hl=&id=whJaAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=whJaAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "YY l|l\\I-QZJJLYY &#39;_§|Il&#39;|ll&#39; \\I\\!l-IIIJ KEY NUMBER DIGEST 1&#39;0 search for Key Numbers: CLICK on KEY NUMBERS, click on Change jurisdiction if you wish to narrow the search, rnter \u003cb\u003esearch terms\u003c/b\u003e, and, should you wish to search on a suggested&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z8WnDgAAQBAJ",
+      "etag": "ZaWI1SrgZAE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z8WnDgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Everything Large-Print Word Search Book, Volume V",
+        "subtitle": "150 Super-Big Word Search Puzzles",
+        "authors": [
+          "Charles Timmerman"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2012-12-18",
+        "description": "More than 2 million Everything® games books sold! Do you love a good word search, but hate the small type and tight spacing in typical word search puzzles? With 150 oversized, large-type puzzles, The Everything Large-Print Word Search Book, Volume V is for you! This all-new volume helps you avoid eyestrain while boosting vocabulary, memory, and problem-solving skills. Featuring puzzle themes including: Favorite foods Popular music Sports Plants and animals It doesn't matter if you're a word search beginner or an experienced expert, this volume is perfect for all skill levels. With The Everything Large-Print Word Search Book, Volume V, you'll have hours of puzzling fun...without having to squint!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781440545641"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1440545642"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Games & Activities"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z8WnDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z8WnDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=z8WnDgAAQBAJ&printsec=frontcover&dq=search+terms&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=z8WnDgAAQBAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Everything_Large_Print_Word_Search_B.html?hl=&id=z8WnDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z8WnDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With 150 oversized, large-type puzzles, The Everything Large-Print Word Search Book, Volume V is for you! This all-new volume helps you avoid eyestrain while boosting vocabulary, memory, and problem-solving skills."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j8qAzQEACAAJ",
+      "etag": "UbNdtJBUOcA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j8qAzQEACAAJ",
+      "volumeInfo": {
+        "title": "Animals Word Search For Women",
+        "subtitle": "Word Search Puzzle Books for Adults, 250+ Words Puzzle Related To Animals for Self-Reflection, Positivity and Relaxing",
+        "authors": [
+          "Wa Led",
+          "Word Search Puzzle Book"
+        ],
+        "publishedDate": "2020-04-30",
+        "description": "ANIMALS Word Search For Women Enjoy the timeless pleasure of ANIMALS words searching with these puzzles! glossy floral cover. Easy to carry and pack The perfect gift for mom! 55 Puzzles note: there are no solutions to these puzzles in this book . nope, you will either solve or just give up . there is no turning to the back of the book for solution here",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798642102220"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j8qAzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j8qAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=j8qAzQEACAAJ&dq=search+terms&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=j8qAzQEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Animals_Word_Search_For_Women.html?hl=&id=j8qAzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j8qAzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Easy to carry and pack The perfect gift for mom! 55 Puzzles note: there are no solutions to these puzzles in this book . nope, you will either solve or just give up . there is no turning to the back of the book for solution here"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KTUxAQAAIAAJ",
+      "etag": "79RDflGsa9g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KTUxAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Minnesota Intellectual Property Review",
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105063739002"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 632,
+        "printType": "BOOK",
+        "categories": [
+          "Copyright"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KTUxAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KTUxAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=KTUxAQAAIAAJ&pg=RA1-PA162&dq=search+terms&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=KTUxAQAAIAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Minnesota_Intellectual_Property_Review.html?hl=&id=KTUxAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KTUxAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KZkWAAAAQBAJ",
+      "etag": "KT9ZD+hfVLI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KZkWAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Reading Keys",
+        "authors": [
+          "Laraine E. Flemming"
+        ],
+        "publisher": "Cengage Learning",
+        "publishedDate": "2013-03-05",
+        "description": "READING KEYS - the first in a three-book reading series by Laraine Flemming - offers a comprehensive introduction to reading skills and strategies, from using context clues to identifying purpose and bias. Clear, accessible explanations present reading concepts without oversimplifying the process of reading comprehension. To ensure students' understanding, reading keys or summaries follow the explanations, breaking them down into manageable chunks. Throughout each chapter, a variety of steadily more difficult exercises assess students' understanding of the material and promote improved comprehension and critical-thinking skills. This incremental approach to instruction and assessment makes it easier for beginning readers to absorb and master new information. The Fourth Edition includes new chapters on analyzing arguments and sentence relationships. In addition, there is a greater emphasis on recognizing and understanding verbal clues to meaning, new discussions on how the brain learns and remembers new information, and several new engaging readings. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781285546032"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1285546032"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 592,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KZkWAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KZkWAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=KZkWAAAAQBAJ&pg=PA31&dq=search+terms&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=KZkWAAAAQBAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reading_Keys.html?hl=&id=KZkWAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KZkWAAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Q EXERCISE 4 Creating \u003cb\u003eSearch Terms\u003c/b\u003e DIRECTIONS For each search goal, come up with a \u003cb\u003esearch term\u003c/b\u003e that you think would get you the information in the shortest amount of time. 1. Sinkholes are yawning holes that develop in backyards,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "19krAQAAIAAJ",
+      "etag": "Y/AUhGfpTVc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/19krAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Guide to Resources and Services",
+        "subtitle": "Inter-university Consortium for Political and Social Research",
+        "publishedDate": "1989",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105061703810"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2054,
+        "printType": "BOOK",
+        "categories": [
+          "Political science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=19krAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=19krAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=19krAQAAIAAJ&q=search+terms&dq=search+terms&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=19krAQAAIAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guide_to_Resources_and_Services.html?hl=&id=19krAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=19krAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Since the indexes are &quot;word&quot; indexes, \u003cb\u003esearch terms\u003c/b\u003e (or values) should not be longer than one &quot;word&quot;. Two or more search commands, each using a word, are used to search for a phrase. SPIREs commands enable the user to search for prefixes&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DG2azQEACAAJ",
+      "etag": "4LEoeekq6F8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DG2azQEACAAJ",
+      "volumeInfo": {
+        "title": "Fun Word Search for Kids Ages 6-9",
+        "subtitle": "Fun and Education Word Search Puzzles, Activities Book, Learn New Word and Basic for Kids .",
+        "authors": [
+          "Search Word Book"
+        ],
+        "publishedDate": "2020-05-08",
+        "description": "Hey, you leave everything in your hands and let us learn together new and essential words. This may be the most successful step in their English learning and this book will be both useful and enjoyable at the same time",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798636380368"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DG2azQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DG2azQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=DG2azQEACAAJ&dq=search+terms&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=DG2azQEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fun_Word_Search_for_Kids_Ages_6_9.html?hl=&id=DG2azQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DG2azQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Do you want your child to be smarter and to memorize more vocabulary this is a good choice to help your child?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "upMfAQAAMAAJ",
+      "etag": "lj7BTq8m99Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/upMfAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Using Extra-topical User Preferences to Improve Web-based Metasearch",
+        "authors": [
+          "Eric J. Glover"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015049506564"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=upMfAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=upMfAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=upMfAQAAMAAJ&q=search+terms&dq=search+terms&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=upMfAQAAMAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Using_Extra_topical_User_Preferences_to.html?hl=&id=upMfAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=upMfAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "3.8.2 \u003cb\u003eQuery\u003c/b\u003e Modification \u003cb\u003eQuery\u003c/b\u003e modification is the process of altering a user&#39;s \u003cb\u003equery\u003c/b\u003e with the intention of improving the result quality, usually precision. Most metasearch engines perform syntactic \u003cb\u003equery\u003c/b\u003e modification, or modifying the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8BwaAQAAIAAJ",
+      "etag": "q+3HpLzxXeY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8BwaAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Canadian Index to Geoscience Data",
+        "subtitle": "New Brunswick/P.E.I",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSD:31822009369638"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Earth sciences"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.3.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8BwaAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8BwaAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=8BwaAQAAIAAJ&pg=PP606&dq=search+terms&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=8BwaAQAAIAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Canadian_Index_to_Geoscience_Data.html?hl=&id=8BwaAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8BwaAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SYEnAAAAQBAJ",
+      "etag": "IO0CcC1bc4U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SYEnAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Word-Processing Technology in Japan",
+        "subtitle": "Kanji and the Keyboard",
+        "authors": [
+          "Nanette Gottlieb"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2013-09-05",
+        "description": "This book deals with a topical issue relating to the use of script in Japan, one which has the potential to reshape future script policy through the mediation of both orthographic practices and social relations. It tells the story of the impact of one of the most significant technological breakthroughs in Japan in the latter part of this century: the invention and rapid adoption of word-processing technology capable of handling Japanese script in a society where the nature of that script had previously mandated handwriting as the norm. The ramifications of this technology in both the business and personal spheres have been wide-ranging, extending from changes to business practices, work profiles, orthography and social attitudes to writing through to Japan's ability to construct a substantial presence on the Internet in recent years.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781136114823"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1136114823"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 219,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SYEnAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SYEnAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=SYEnAAAAQBAJ&pg=PA78&dq=search+terms&hl=&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SYEnAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SYEnAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 42.5,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 31.45,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SYEnAAAAQBAJ&rdid=book-SYEnAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 42500000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 31450000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Word_Processing_Technology_in_Japan-sample-pdf.acsm?id=SYEnAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SYEnAAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If one wished to \u003cb\u003eSearch\u003c/b\u003e a database for articles pertaining to okurigana, for instance, inputting oku-ri-gana&#39; would bring up only those articles in which the \u003cb\u003eword\u003c/b\u003e written in precisely that same way featured in the titles."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7N4-zQEACAAJ",
+      "etag": "PEkzoXe188w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7N4-zQEACAAJ",
+      "volumeInfo": {
+        "title": "Happy Valentine's Day Valentine's Day Puzzle Word Search Word Puzzle Search Volume 41",
+        "subtitle": "Word Search Games for Adults, 8.5*11 Large Print Word Search Books",
+        "authors": [
+          "Word Puzzle Search Book"
+        ],
+        "publishedDate": "2020-01-17",
+        "description": "Are you searching for something to do? Look no further! Enjoy hours of LARGE PRINT word search puzzle fun with This Book",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798600340220"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7N4-zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7N4-zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=7N4-zQEACAAJ&dq=search+terms&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=7N4-zQEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Happy_Valentine_s_Day_Valentine_s_Day_Pu.html?hl=&id=7N4-zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7N4-zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Are you searching for something to do? Look no further! Enjoy hours of LARGE PRINT word search puzzle fun with This Book"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "obLJzAEACAAJ",
+      "etag": "kMDobQWy8qs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/obLJzAEACAAJ",
+      "volumeInfo": {
+        "title": "Rap Word Search Puzzles",
+        "subtitle": "Large Print Puzzle Book .8,5x11, Matte Cover, Green,55 Music Activity Puzzle Book with Solution",
+        "authors": [
+          "Search Word Gifts Publishing"
+        ],
+        "publishedDate": "2019-12-21",
+        "description": "Try to solve this wonderful puzzles related to music, rap and hip hop music!flok music, Folk Word Search music, are you looking for a search word gifts, then by this: music search word pop, Word Search, rock Word Search rhythm and blues Word Search jazz Word Search, Hip hop Word Search, alternative Word Search, Rap Word Search puzzles.you got what you looking for it",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1678939382"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781678939380"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=obLJzAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=obLJzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=obLJzAEACAAJ&dq=search+terms&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=obLJzAEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rap_Word_Search_Puzzles.html?hl=&id=obLJzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=obLJzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Try to solve this wonderful puzzles related to music, rap and hip hop music!flok music, Folk Word Search music, are you looking for a search word gifts, then by this: music search word pop, Word Search, rock Word Search rhythm and blues ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VQSikiO8IA0C",
+      "etag": "t1O1ds20u2s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VQSikiO8IA0C",
+      "volumeInfo": {
+        "title": "Data Dissemination and Query in Mobile Social Networks",
+        "authors": [
+          "Jiming Chen",
+          "Jialu Fan",
+          "Youxian Sun"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2012-03-27",
+        "description": "With the increasing popularization of personal hand-held mobile devices, more people use them to establish network connectivity and to query and share data among themselves in the absence of network infrastructure, creating mobile social networks (MSNet). Since users are only intermittently connected to MSNets, user mobility should be exploited to bridge network partitions and forward data. Currently, data route/forward approaches for such intermittently connected networks are commonly \"store-carry-and-forward\" schemes, which exploit the physical user movements to carry data around the network and overcome path disconnection. And since the source and destination may be far away from each other, the delay for the destination to receive the data from the source may be long. MSNets can be viewed as one type of socially-aware delay tolerant networks (DTNs). Observed from social networks, the contact frequencies are probably different between two friends and two strangers, and this difference should be taken into consideration when designing data dissemination and query schemes in MSNets. In this book, the fundamental concepts of MSNets are introduced including the background, key features and potential applications of MSNets, while also presenting research topics, such as, MSNets as realistic social contact traces and user mobility models. Because the ultimate goal is to establish networks that allow mobile users to quickly and efficiently access interesting information, particular attention is paid to data dissemination and query schemes in subsequent sections. Combined with geography information, the concepts of community and centrality are employed from a social network perspective to propose several data dissemination and query schemes, and further use real social contact traces to evaluate their performance, demonstrating that such schemes achieve better performance when exploiting more social relationships between users.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781461422549"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "146142254X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 86,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VQSikiO8IA0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VQSikiO8IA0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=VQSikiO8IA0C&pg=PA75&dq=search+terms&hl=&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VQSikiO8IA0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VQSikiO8IA0C"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 40.32,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 28.22,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=VQSikiO8IA0C&rdid=book-VQSikiO8IA0C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 40320000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 28220000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Data_Dissemination_and_Query_in_Mobile_S-sample-pdf.acsm?id=VQSikiO8IA0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VQSikiO8IA0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jiming Chen, Jialu Fan, Youxian Sun. \u003cb\u003esearch\u003c/b\u003e schemes. Furthermore, DelQue is designed for information \u003cb\u003equery\u003c/b\u003e, hence it is more flexible than other forwarding-mechanism-based \u003cb\u003equery\u003c/b\u003e schemes, especially dealing with mobile-source scenarios."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cWv6_kIMi5QC",
+      "etag": "SkYo5xCP3M4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cWv6_kIMi5QC",
+      "volumeInfo": {
+        "title": "United States Attorneys Bulletin",
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32437121901538"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Government attorneys"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cWv6_kIMi5QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cWv6_kIMi5QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=cWv6_kIMi5QC&pg=RA2-PA58&dq=search+terms&hl=&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cWv6_kIMi5QC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cWv6_kIMi5QC"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=cWv6_kIMi5QC&rdid=book-cWv6_kIMi5QC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.nl/books/download/United_States_Attorneys_Bulletin.epub?id=cWv6_kIMi5QC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cWv6_kIMi5QC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Rule 26 ( f ) conference will come too early in the litigation for the parties to discuss specific \u003cb\u003esearch terms\u003c/b\u003e . ... a good opportunity to educate opposing counsel , if necessary , about the benefits of electronic searches and the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a5GbzQEACAAJ",
+      "etag": "+JK/bW7tacU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a5GbzQEACAAJ",
+      "volumeInfo": {
+        "title": "Word Search Food & Cooking",
+        "subtitle": "Word Find Book For Adults, Word Search Finder, 100 Word Searches",
+        "authors": [
+          "O&t Publishing"
+        ],
+        "publishedDate": "2020-05-03",
+        "description": "Are you hungry for your next challenge? You've recently discovered it with this sizzling assortment of Food and Cooking Word Search Puzzles! Ideal for all foodies, this fun-pressed book contains 100 engaging and challenging word searches covering everything to do with nourishment and cooking from around the globe - including, vegetables, sweets, cooking terms, and significantly more! With huge amounts of words to search out and discover, you're certain to have a ton of fun while giving your cerebrum an extraordinary exercise. 100 Food and Cooking themed word search riddles to work your way through . Highlighting nourishments and dishes from nations around the globe . All riddle arrangements are recorded in the rear of the book . The ideal present for foodies and puzzlers the same . Assists with lessening pressure and improve mind work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798642994689"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a5GbzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a5GbzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=a5GbzQEACAAJ&dq=search+terms&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=a5GbzQEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Word_Search_Food_Cooking.html?hl=&id=a5GbzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a5GbzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ideal for all foodies, this fun-pressed book contains 100 engaging and challenging word searches covering everything to do with nourishment and cooking from around the globe - including, vegetables, sweets, cooking terms, and significantly ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gGdgzgEACAAJ",
+      "etag": "CbOB7MIIqo4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gGdgzgEACAAJ",
+      "volumeInfo": {
+        "title": "Easter Word Search for Kids",
+        "subtitle": "Fun and Educational Happy Easter Word Search Book Makes a Great Easter Gift, Challenging Puzzle Word Search Book for Kids",
+        "authors": [
+          "Search word search"
+        ],
+        "publishedDate": "2020-03-09",
+        "description": "This Easter Challenging Puzzle book is a ideal word search game to learn Easter vocabulary and have fun at the same time.Word Search Book Makes a great Easter gift or Easter basket stufferThis Easter word search is perfect for kids and adult. Is a fun gift for Friends, Family.Get your Biggest Word Search Puzzles Book today!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798623131966"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=gGdgzgEACAAJ&dq=search+terms&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=gGdgzgEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Easter_Word_Search_for_Kids.html?hl=&id=gGdgzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gGdgzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Easter Challenging Puzzle book is a ideal word search game to learn Easter vocabulary and have fun at the same time.Word Search Book Makes a great Easter gift or Easter basket stufferThis Easter word search is perfect for kids and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8foKAAAAQBAJ",
+      "etag": "7LXXWWX5oq4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8foKAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Foundations of Legal Research and Writing",
+        "authors": [
+          "Carol M. Bast",
+          "Margie A. Hawkins"
+        ],
+        "publisher": "Cengage Learning",
+        "publishedDate": "2012-06-22",
+        "description": "FOUNDATIONS OF LEGAL RESEARCH AND WRITING, Fifth Edition is the ideal resource for paralegals. The book's up-to-the-minute coverage tackles the ever-evolving areas of computer-assisted research and Cyber law, in addition to traditional legal research, analysis, and writing. Extensive research chapters address primary and secondary sources, citating, Lexis/Nexis, the Internet, and more, while writing sections center on drafting client opinion letters, pleadings, contracts, office memos, memoranda of law, and appellate briefs. Every chapter gives you practice writing opportunities, as well as traditional and computer-assisted research assignments to help develop your skills. Detailed case excerpts, samples, tips, and discussions further support the assignments, and illustrate the many perils of inadequate research and poor legal writing. Readers everywhere agree that FOUNDATIONS OF LEGAL RESEARCH AND WRITING, Fifth Edition delivers the concepts you need for success in the most demanding law firms and legal departments today. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781285402604"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "128540260X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 624,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8foKAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8foKAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=8foKAAAAQBAJ&pg=PA197&dq=search+terms&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=8foKAAAAQBAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Foundations_of_Legal_Research_and_Writin.html?hl=&id=8foKAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8foKAAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Once you have gathered all the relevant information, it is time to move on to step two and identify \u003cb\u003ekey terms\u003c/b\u003e. ... From the search and seizure problem, you Words central TO a legal research problem that can be I used by the legal&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3l_jzAEACAAJ",
+      "etag": "Dp5WUKjGQAo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3l_jzAEACAAJ",
+      "volumeInfo": {
+        "title": "World Cities Word Search Book",
+        "subtitle": "Large Print Puzzle Book.8,5x11, Matte Cover,41 Activity Puzzle Book with Solution",
+        "authors": [
+          "Search Word Gifts Publishing"
+        ],
+        "publishedDate": "2019-12-23",
+        "description": "This challenging contries and cities word search puzzles book is perfect for word puzzles lovers who whant to have fun and challenge during free times, vacations, retirement, waiting times, etc, and learn all about countries name cities names, capital name, contry mucis name Makes a great Christmas, Birthday, Independence Day, Veterans Day, Thanksgiving, Labor Day, Mother's or Father's Day gift This puzzle book has: 41 word searches puzzles with Printed solutions at the end of the book, about all animals More than 1000 contries and city, cities, capitas to discover Large print words for easy reading",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1679967061"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781679967061"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 42,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3l_jzAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3l_jzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=3l_jzAEACAAJ&dq=search+terms&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=3l_jzAEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/World_Cities_Word_Search_Book.html?hl=&id=3l_jzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3l_jzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This challenging contries and cities word search puzzles book is perfect for word puzzles lovers who whant to have fun and challenge during free times, vacations, retirement, waiting times, etc, and learn all about countries name cities ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R6jezAEACAAJ",
+      "etag": "a7hBPLCGEPc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R6jezAEACAAJ",
+      "volumeInfo": {
+        "title": "Large Print World Cities Word Search Book",
+        "subtitle": "Large Print Puzzle Book.8,5x11, Matte Cover,41 Activity Puzzle Book with Solution",
+        "authors": [
+          "Search Word Gifts Publishing"
+        ],
+        "publishedDate": "2019-12-23",
+        "description": "This challenging contries and cities word search puzzles book is perfect for word puzzles lovers who whant to have fun and challenge during free times, vacations, retirement, waiting times, etc, and learn all about countries name cities names, capital name, contry mucis name Makes a great Christmas, Birthday, Independence Day, Veterans Day, Thanksgiving, Labor Day, Mother's or Father's Day gift This puzzle book has: 41 word searches puzzles with Printed solutions at the end of the book, about all animals More than 1000 contries and city, cities, capitas to discover Large print words for easy reading",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1679996169"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781679996160"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 42,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R6jezAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R6jezAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=R6jezAEACAAJ&dq=search+terms&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=R6jezAEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Large_Print_World_Cities_Word_Search_Boo.html?hl=&id=R6jezAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R6jezAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This challenging contries and cities word search puzzles book is perfect for word puzzles lovers who whant to have fun and challenge during free times, vacations, retirement, waiting times, etc, and learn all about countries name cities ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tRylzAEACAAJ",
+      "etag": "JCePPXCWAwc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tRylzAEACAAJ",
+      "volumeInfo": {
+        "title": "Large Print Puzzle Classical Word Search",
+        "subtitle": "Large Print Puzzle Book .8,5x11, Matte Cover, Green,55 Music Activity Puzzle Book with Solution",
+        "authors": [
+          "Search Word Gifts Publishing"
+        ],
+        "publishedDate": "2019-12-21",
+        "description": "Try to solve this wonderful puzzles related to music, rap and hip hop music!flok music, Folk Word Search music, are you looking for a search word gifts, then by this: music search word pop, Word Search, rock Word Search rhythm and blues Word Search jazz Word Search, Hip hop Word Search, alternative Word Search, Rap Word Search puzzles.you got what you looking for it",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1678976792"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781678976798"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tRylzAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tRylzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=tRylzAEACAAJ&dq=search+terms&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=tRylzAEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Large_Print_Puzzle_Classical_Word_Search.html?hl=&id=tRylzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tRylzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Try to solve this wonderful puzzles related to music, rap and hip hop music!flok music, Folk Word Search music, are you looking for a search word gifts, then by this: music search word pop, Word Search, rock Word Search rhythm and blues ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "miqSzAEACAAJ",
+      "etag": "RrLcFKmxoUY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/miqSzAEACAAJ",
+      "volumeInfo": {
+        "title": "Large Print Puzzle Rock Word Search",
+        "subtitle": "Large Print Puzzle Book .8,5x11, Matte Cover, Green,55 Music Activity Puzzle Book with Solution",
+        "authors": [
+          "Search Word Gifts Publishing"
+        ],
+        "publishedDate": "2019-12-21",
+        "description": "Try to solve this wonderful puzzles related to music, rap and hip hop music!flok music, Folk Word Search music, are you looking for a search word gifts, then by this: music search word pop, Word Search, rock Word Search rhythm and blues Word Search jazz Word Search, Hip hop Word Search, alternative Word Search, Rap Word Search puzzles.you got what you looking for it",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1678956279"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781678956271"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=miqSzAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=miqSzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=miqSzAEACAAJ&dq=search+terms&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=miqSzAEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Large_Print_Puzzle_Rock_Word_Search.html?hl=&id=miqSzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=miqSzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Try to solve this wonderful puzzles related to music, rap and hip hop music!flok music, Folk Word Search music, are you looking for a search word gifts, then by this: music search word pop, Word Search, rock Word Search rhythm and blues ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xnGFzAEACAAJ",
+      "etag": "yzGfnMhs3KY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xnGFzAEACAAJ",
+      "volumeInfo": {
+        "title": "Smart Kids Word Search",
+        "subtitle": "Hard Word Searches for Kids Ages 8 to 11 (Book 1)",
+        "authors": [
+          "Train My Train My Brain - Word Searches",
+          "Smart Kids Smart Kids (USA)",
+          "Grace Hartford"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-11-27",
+        "description": "GIFT IDEAS || PUZZLE BOOKS || CLASSROOM EDUCATION A challenging collection of word searches covering subjects such as maths, English, science, religion, history, geography, culture and society, Spanish, French, Italian, German and even Japanese! Key Features: Based on classroom lessons to ensure relevancy for smart little minds! Extra-wide margins to rip out the pages (Ideal for small hands) 60 word search grids - Search for over 1000 words! Highly challenging for smart kids Full solutions provided Cute doodle characters on every page for kids to color American English Puzzle solutions can run forward, backward, or diagonally. Many words share common letters and criss-cross each other for greater variety. Written by an American English teacher Unlike other word search books which are made overseas, this title has been written by an American English teacher, allowing for the highest standards of quality. A fun way to develop spelling, vocabulary and problem-solving skills!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1712559036"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781712559031"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xnGFzAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xnGFzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=xnGFzAEACAAJ&dq=search+terms&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=xnGFzAEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Smart_Kids_Word_Search.html?hl=&id=xnGFzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xnGFzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Key Features: Based on classroom lessons to ensure relevancy for smart little minds! Extra-wide margins to rip out the pages (Ideal for small hands) 60 word search grids - Search for over 1000 words!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SmGazQEACAAJ",
+      "etag": "mO0Xk8BfbEo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SmGazQEACAAJ",
+      "volumeInfo": {
+        "title": "Feelings Word Search For Women",
+        "subtitle": "300+ Words, 55 Puzzles, Word Search Puzzle Books for Adults, Feelings Words for Self-Reflection, Positivity and Relaxing",
+        "authors": [
+          "Wa Led",
+          "Word Search Puzzle Book"
+        ],
+        "publishedDate": "2020-05-02",
+        "description": "FEELINGS Word Search For Women Enjoy the timeless pleasure of FEELINGS words searching with these puzzles! glossy floral cover. Easy to carry and pack The perfect gift for mom! 55Puzzles note: there are no solutions to these puzzles in this book . nope, you will either solve or just give up . there is no turning to the back of the book for solution here",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798642595862"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SmGazQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SmGazQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=SmGazQEACAAJ&dq=search+terms&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=SmGazQEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Feelings_Word_Search_For_Women.html?hl=&id=SmGazQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SmGazQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Easy to carry and pack The perfect gift for mom! 55Puzzles note: there are no solutions to these puzzles in this book . nope, you will either solve or just give up . there is no turning to the back of the book for solution here"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ugSgzAEACAAJ",
+      "etag": "e3ysv6PT+qs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ugSgzAEACAAJ",
+      "volumeInfo": {
+        "title": "Jazz Word Search",
+        "subtitle": "Large Print Puzzle Book .8,5x11, Matte Cover, Red,55 Music Activity Puzzle Book with Solution",
+        "authors": [
+          "Search Word Gifts Publishing"
+        ],
+        "publishedDate": "2019-12-21",
+        "description": "Try to solve this wonderful puzzles related to music, rap and hip hop music!flok music, Folk Word Search music, are you looking for a search word gifts, then by this: music search word pop, Word Search, rock Word Search rhythm and blues Word Search jazz Word Search, Hip hop Word Search, alternative Word Search, Rap Word Search puzzles.you got what you looking for it",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1678947407"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781678947408"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ugSgzAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ugSgzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=ugSgzAEACAAJ&dq=search+terms&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=ugSgzAEACAAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jazz_Word_Search.html?hl=&id=ugSgzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ugSgzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Try to solve this wonderful puzzles related to music, rap and hip hop music!flok music, Folk Word Search music, are you looking for a search word gifts, then by this: music search word pop, Word Search, rock Word Search rhythm and blues ..."
+      }
+    }
+  ]
+}
+

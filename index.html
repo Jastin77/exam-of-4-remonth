@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="./css/index.css">
+    <title>EXAM OF FOURTH MONTH</title>
+</head>
+
+<body>
+    <header class="">
+        <div class="container  ">
+            <nav class="navbarNav navbar-danger ">
+                <div class="wrap d-flex justify-content-between py-3 ">
+                    <img class="alighn-item-center class=" fs-6"" src="./images/logotip.svg" alt="">
+
+                    <form class="form gap-3 ">
+                        <input class="inp rounded-5 W-670" type="search" placeholder="search books">
+                        <button class="btn btn-success rounded"
+                            style="width: 100px; height: 40px; padding: 10px 23px 11px 23px;">LOGOUT</button>
+                    </form>
+                </div>
+            </nav>
+            <hr class="shadow">
+            <div class=" ordered d-flex justify-content-between">
+                <p class="show_text"><strong> Showing 18 Result(s)</strong></p>
+                <button class="btn btn-success d-flex" style="width: 165px; height: 34px; padding: 9px 13px ;">
+                    <img src="./images/calendar 1.svg" alt="">
+                    <p id="btnOrdered">Order by newest</p>
+                </button>
+            </div>
+            <hr class="shadow">
+        </div>
+    </header>
+
+    <!-- <div id="card-container"></div> -->
+    <main class="main d-flex container">
+        <section class="intro">
+            <div class="container">
+                <div class="wrapper">
+                    <div class=" h-100">
+
+                        <div class="card__body">
+                            <h5 class="card__title">Bookmarks</h5>
+                            <p class="card__text">
+                                If you don’t like to read, you haven’t found the right book
+                            </p>
+                        </div>
+                        <hr>
+                        <div class="little_card  bg-sucsess d-flex justify-content-between">
+                            <div class="wrapper">
+                                <h5>Python</h5>
+                                <p>David M. Beazley</p>
+                            </div>
+                            <div>
+                                <button class="btn btn-danger">delete</button>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="little_card  bg-sucsess d-flex justify-content-between">
+                            <div class="wrapper">
+                                <h5>Java</h5>
+                                <p>David M. Beazley</p>
+                            </div>
+                            <div>
+                                <button class="btn btn-danger">delete</button>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="little_card  bg-sucsess d-flex  justify-content-between">
+                            <div class="wrapper">
+                                <h5>C++</h5>
+                                <p>David M. Beazley</p>
+                            </div>
+                            <div>
+                                <button class="btn btn-danger">delete</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
+
+        <section>
+            <div class="container">
+                <div class="d-flex flex-wrap gap-4 justify-content-center" id="cards-wrapper">
+                </div>
+
+                <div class="book-info-wrapper d-none" id="book-info-wrapper">
+
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="pagination" id="paginationParent">
+        <button class="btn btn-primary" id="preBtn"></button>
+        <ul class="paginationList m-0">
+
+        </ul>
+        <button class="btn btn-primary" id="secBtn"></button>
+    </footer>
+
+
+
+
+
+
+
+    <script src="./js/script.js"></script>
+    <script src="./js/index.js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/utils.js"></script>
+</body>
+
+</html>
